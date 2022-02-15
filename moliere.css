@@ -1,0 +1,40 @@
+.Speech {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    color:rgb(230, 48, 48);
+}
+.Direction {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(102, 162, 219);
+    background-color: rgb(171, 241, 157);
+}
+.Direction:hover{
+    background-color: rgb(198, 231, 149);
+    color: rgb(81, 177, 221);
+    text-shadow: 2px 2px 5px rgb(31, 248, 85);
+}  
+h6.Name {
+    font-style:normal;
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(142, 223, 20);
+    font-size: 20px;
+    background-color:rgb(214, 123, 123);
+  }
+  
+  p.Direction {
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    color : rgb(192, 51, 192);
+    font-size: 20px;
+    background-color:rgb(127, 224, 127);
+  }
+  
+  p.Speech {
+    font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    color : rgb(53, 53, 211);
+    background-color:rgb(197, 197, 123);
+  }
+  
